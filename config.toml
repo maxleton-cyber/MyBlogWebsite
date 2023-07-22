@@ -3,3 +3,6 @@
     extended = true
     min = "0.87.0"
     max = "0.115.4"
+
+  [[imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
